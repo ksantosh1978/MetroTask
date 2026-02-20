@@ -1,0 +1,18 @@
+{
+	"name": "node-js-playwright-browserstack",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "npx playwright test --config=./playwright.config.js",
+		"postinstall": "npm update browserstack-node-sdk"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@playwright/test": "latest",
+		"browserstack-node-sdk": "^1.48.1",
+		"jsdom": "^28.0.0"
+	}
+}

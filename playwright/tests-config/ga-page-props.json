@@ -1,0 +1,58 @@
+{
+	"trackingID": "G-MYFQ9GLWWV",
+	"global": {
+		"ep.domain": "metro.co.uk",
+		"ep.push_notification_status": "eligible",
+		"ep.user_type": "none"
+	},
+	"pages": {
+		"/": {
+			"ep.content_type": "home"
+		},
+		"/sport/football/": {
+			"ep.content_type": "category",
+			"ep.url_channel": "/sport",
+			"ep.url_subchannel_level_1": "/sport/football"
+		},
+		"/tag/london/": {
+			"ep.content_type": "tag",
+			"ep.article_tags": "london"
+		},
+		"/search/?q=pizza#gsc.tab=0&gsc.q=pizza&gsc.page=1": {
+			"ep.content_type": "page",
+			"ep.internal_search_terms": "pizza"
+		},
+		"/404": {
+			"ep.content_type": "404"
+		},
+		"/newsletters/": {
+			"ep.article_title": "newsletters",
+			"ep.content_type": "page"
+		},
+		"/puzzles/": {
+			"ep.article_title": "puzzles",
+			"ep.content_type": "page"
+		},
+		"/weather/": {
+			"ep.content_type": "weather"
+		},
+		"/2025/12/27/chelsea-vs-aston-villa-live-premier-league-latest-score-confirmed-lineups-25764484/": {
+			"ep.content_type": "liveblog article"
+		},
+		"/2025/12/11/10-adventures-around-melbourne-cant-miss-25032667/": {
+			"ep.content_type": "sponsored article",
+			"ep.sponsor_name": "Malaysia Airlines and Visit Victoria"
+		},
+		"/2025/11/14/running-man-made-root-glen-powell-action-packed-sci-fi-24697928/": {
+			"ep.article_id": "24697928",
+			"ep.article_published_date": "2025-11-14",
+			"ep.article_published_hour": "08",
+			"ep.article_tags": "edgar-wright,film-review,glen-powell,science-fiction,stephen-king,us-film,in:divert-me,in:medium-read,in:seo-optimised,review",
+			"ep.article_title": "the running man made me root for glen powell in action-packed sci-fi",
+			"ep.content_type": "article",
+			"ep.url_channel": "/entertainment",
+			"ep.url_subchannel_level_1": "/entertainment/film",
+			"ep.word_count": "797"
+		}
+	}
+}
