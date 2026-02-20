@@ -66,7 +66,7 @@ test.describe("Test WP-JSON @api endpoints @desktopOnly", () => {
 });
 
   test('Test Metro video endpoint', async ({ request }) => {
-     const url = 'wp-json/videos/';
+     const url = '/wp-json/videos/';
     //  Make the GET request
     const response = await request.get(url);
 
